@@ -12,8 +12,8 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Sasa Zivotic - SoftTech Consulting",
-  title: "Sasa - SoftTech Consulting",
+  name: "Sasa Zivotic",
+  title: "Sasa Zivotic",
   description:
     "Our committed team of seasoned professionals is here to help you find, engage with, and land top tier positions while making the most of your time. Bid adieu to the monotony of job searching and experience the advantage of a collaborative partnership where your ambitions take center stage.",
   resumeLink: "#",
@@ -152,7 +152,7 @@ export const seoData: SEODataType = {
   title: "Sasa Zivotic",
   description: greetings.description,
   author: "Sasa Zivotic",
-  url: "https://sasa-softech-consulting.netlify.app",
+  url: "https://sasa-myweb.netlify.app",
   keywords: [
     "Sasa",
     "Sasa Zivotic",

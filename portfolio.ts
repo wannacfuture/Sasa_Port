@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: "Sasa Zivotic - SoftTech Consulting",
-  title: "Hi all, I'm Sasa",
+  title: "Sasa - SoftTech Consulting",
   description:
     "Our committed team of seasoned professionals is here to help you find, engage with, and land top tier positions while making the most of your time. Bid adieu to the monotony of job searching and experience the advantage of a collaborative partnership where your ambitions take center stage.",
   resumeLink: "#",

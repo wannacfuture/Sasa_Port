@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: "Sasa Zivotic",
   title: "Sasa Zivotic",
   description:
-    "Our committed team of seasoned professionals is here to help you find, engage with, and land top tier positions while making the most of your time. Bid adieu to the monotony of job searching and experience the advantage of a collaborative partnership where your ambitions take center stage.",
+    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
 };
 

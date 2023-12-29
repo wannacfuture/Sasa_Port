@@ -152,7 +152,6 @@ export const seoData: SEODataType = {
   title: "Sasa Zivotic",
   description: greetings.description,
   author: "Sasa Zivotic",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-wannacfuture.vercel.app",
   keywords: [
     "Sasa",

@@ -152,7 +152,7 @@ export const seoData: SEODataType = {
   title: "Sasa Zivotic",
   description: greetings.description,
   author: "Sasa Zivotic",
-  url: "https://developer-portfolio-wannacfuture.vercel.app",
+  url: "https://sasa-softech-consulting.netlify.app",
   keywords: [
     "Sasa",
     "Sasa Zivotic",

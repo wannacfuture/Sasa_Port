@@ -12,8 +12,8 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Sasa Zivotic",
-  title: "Sasa Zivotic",
+  name: "Andrej Nikolić",
+  title: "Andrej Nikolić",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
@@ -26,11 +26,8 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:powerdevsasa@gmail.com",
+  email: "mailto:developmentnikolic@gmail.com",
   github: "https://github.com/wannacfuture",
-  // instagram: "https://www.instagram.com/__hanzla100",
-  // facebook: 'https://www.facebook.com/wannacfuture',
-  // twitter: 'https://twitter.com/wannacfuture',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -128,7 +125,7 @@ export const projects: ProjectType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: "Daniel Kats",
+    name: "Kats Wang",
     role: "Frontend Developer at Meganos Software",
     feedback:
       "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
@@ -149,12 +146,12 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Sasa Zivotic",
+  title: "Andrej Nikolić",
   description: greetings.description,
-  author: "Sasa Zivotic",
-  url: "https://sasa-zivotic.netlify.app",
+  author: "Andrej Nikolić",
+  url: "https://andrej-nikolic.netlify.app",
   keywords: [
-    "Sasa",
-    "Sasa Zivotic",
+    "Andrej",
+    "Andrej Nikolić",
   ],
 };
